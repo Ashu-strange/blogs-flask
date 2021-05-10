@@ -1,0 +1,18 @@
+{
+    "params":{
+        "local_server" : "True",
+        "local_uri" : "mysql://root:@localhost/blog",
+        "prod_uri" : "mysql://root:@localhost/blog",
+        "fb_url" : "https://facebook.com/blogs",
+        "tw_url" : "https://twitter.com/blogs",
+        "gh_url" : "https://github.com/blogs",
+        "main_name" : "My Blogs",
+        "email_address" : "ashutoshrout2000@gmail.com",
+        "email_password" : "",
+        "about_text": "Hi I am Ashutosh and i am learning flask currently",
+        "blog_no": 3,
+        "u_name": "Ashutosh",
+        "pass": "hello",
+        "location": "D:\\Flask"
+    }
+}
